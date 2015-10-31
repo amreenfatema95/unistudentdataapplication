@@ -48,6 +48,7 @@ If the application is being initiated through a command line interface, then the
 java -cp bin:lib/StudentData.jar:lib/opencsv-3.3.jar:lib/jfreechart-1.0.19.jar:lib/jcommon-1.0.23.jar:lib/itextpdf-5.5.5.jar studentDataApp.MainApp
 
 The following assumptions apply:
+
 * All class files are in the bin folder, 
 
 * All external jars are in lib folder, and
